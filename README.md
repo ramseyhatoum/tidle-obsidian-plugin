@@ -1,5 +1,5 @@
 # Tidle  
-*Crafted with care, designed to be simple—task management reimagined.*
+*A simple, lightweight task management app that fits in your workflow.*
 
 ## Overview  
 Tidle combines intuitive task management with light AI assistance to help individuals and teams stay organized, insightful, and on track. 

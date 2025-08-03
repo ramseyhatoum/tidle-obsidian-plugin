@@ -1,5 +1,5 @@
 # Tidle  
-*A simple, lightweight task management app that fits in your workflow.*
+*A simple, lightweight task management app that was designed to fit in your workflow.*
 
 ## Overview  
 Tidle combines intuitive task management with light AI assistance to help individuals and teams stay organized, insightful, and on track. 

@@ -31,7 +31,10 @@ See productivity at a glance—weekly completion scores, daily progress bars, an
 Separate work, personal, and experimental projects; toggle themes; manage subscriptions; and log out from a single settings hub.  
 **Demo:** *[Insert clip showing workspace switching and settings]*
 
-### 7. Optional Premium Upgrades  
+## 7. File Upload
+*[Insert blurb here]*
+
+### 8. Optional Premium Upgrades  
 Unlock extra insights and features with “tidle+” subscription plans powered by a simple PayPal checkout flow.  
 **Demo:** *[Insert clip showing subscription purchase flow]*
 
